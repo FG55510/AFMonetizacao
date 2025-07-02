@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d294e3b25e2e041a6d6c261e85edb6, type: 3}
+  m_Name: MemoryGame_MemoryElement 5
+  m_EditorClassIdentifier: 
+  iD: 4
+  Sprite: {fileID: 21300000, guid: e590ed95fc3eb3e4ea3d20121c008903, type: 3}
